@@ -7,7 +7,7 @@ Follow the links below for a variety Github repos that contain code that's been 
 First section outlines Github repos hosted directly in County-Code.  Second section will provides links to non-County-Code open-source repos that have been proven valuable.
 
 ## County-Code Hosted Git Repos
-The following repos are created and hosted by other County Developers such as yourself.  If you would like to contribute to this list by joining the County-Code initiative, please join the [CCISDA user group](<a href="[https://example.com](https://ccisda.org/members/groups.asp?DGPCrPg=1&DGPCrSrt=4A)" target="CCISDA User Group"></a>) and engage in the discussion.
+The following repos are created and hosted by other County Developers such as yourself.  If you would like to contribute to this list by joining the County-Code initiative, please join the [CCISDA user group](<a href="https://ccisda.org/members/groups.asp?DGPCrPg=1&DGPCrSrt=4A" target="_blank">CCISDA User Group</a>) and engage in the discussion.
 
 ### Basics
 
