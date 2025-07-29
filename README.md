@@ -47,7 +47,7 @@ The following repos are created and hosted by other County Developers such as yo
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/inyois/awesome-county/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/inyois/awesome-county/blob/main/CONTRIBUTING.md) first.
 
 - - -
 
