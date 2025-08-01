@@ -2,12 +2,14 @@
 
 Please review the LICENSE file for reference.  Unless otherwise explicitly stated, all repos under County Code is subject to the LICENSE file contained herein.
 
-Follow the links below for a variety Github repos that contain code that's been proven to be useful in day-to-day development and deployment needs of a California County developer.
+See **CA County-Code Hosted Git Repos** for Github repos created and hosted by other CA County Developers.  
 
-First section outlines Github repos hosted directly in County-Code.  Second section will provides links to non-County-Code open-source repos that have been proven valuable.
+See **Non-County-Code Open Source Repos** section for a variety Github repos that contain code that's been proven to be useful in day-to-day development and deployment needs of a CA County developer. 
 
-## County-Code Hosted Git Repos
-The following repos are created and hosted by other County Developers such as yourself.  If you would like to contribute to this list by joining the County-Code initiative, please join the [CCISDA user group](<a href="https://ccisda.org/members/groups.asp?DGPCrPg=1&DGPCrSrt=4A" target="_blank">CCISDA User Group</a>) and engage in the discussion.
+Help us grow this list. See [contributing guidelines](https://github.com/inyois/awesome-county/blob/main/CONTRIBUTING.md) for details. 
+
+## CA County-Code Hosted Git Repos
+The following repos were created and hosted by other County Developers such as yourself. 
 
 ### Basics
 
@@ -23,8 +25,7 @@ The following repos are created and hosted by other County Developers such as yo
 * [X12 835 parser](https://github.com/inyois/edi_835_parser) - Python based parser for X12 835 file formats.  Customized an [existing parser from keironstoddart](https://github.com/keironstoddart/edi-835-parser) to add additional parsing routines. <img height="20" src="img/python.png" alt="python">
 
 
-## Non-County-Code Open Source repos
-
+## Non-CA County-Code Open Source Repos
 
 ### EHR related<img height="30" src="img/health.png" alt="health">
 
@@ -41,17 +42,10 @@ The following repos are created and hosted by other County Developers such as yo
 
 ### Workflow related<img height="30" src="img/sql.png" alt="SQL">
 
-* [dagster](https://github.com/dagster-io/dagster). Execute any python and sql jobs (see dbt) in periodic or on-demand fashion. 
+* [dagster](https://github.com/dagster-io/dagster). Execute any python and sql jobs (see dbt) in periodic or on-demand fashion.
+  
 
-
-
-# Contributing
-
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/inyois/awesome-county/blob/main/CONTRIBUTING.md) first.
-
-- - -
-
-If you have any question about this opinionated list, do not hesitate to  open an issue on GitHub.
+If you have any question about this list, do not hesitate to  open an issue on GitHub.
 
 
 
