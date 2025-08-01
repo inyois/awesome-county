@@ -2,13 +2,13 @@
 
 Please review the LICENSE file for reference.  Unless otherwise explicitly stated, all repos under County Code is subject to the LICENSE file contained herein.
 
-See **CA County-Code Hosted Git Repos** for Github repos created and hosted by other CA County Developers.  
+See **CA County Code Git Repos** for Github repos created and hosted by other CA County Developers. To access, you will need a GitHub account associated with your CA county email address. Create a Github issue against this repo requesting access and include email address, name and Github User Name. 
 
 See **Non-CA County-Code Open Source Repos** section for a variety Github repos that contain code that's been proven to be useful in day-to-day development and deployment needs of a CA County developer. 
 
 Help us grow Awesome County. See [contributing guidelines](https://github.com/inyois/awesome-county/blob/main/CONTRIBUTING.md) for details. 
 
-## CA County-Code Hosted Git Repos
+## CA County Code Git Repos
 The following repos were created and hosted by other County Developers such as yourself. 
 
 ### Basics
@@ -25,7 +25,7 @@ The following repos were created and hosted by other County Developers such as y
 * [X12 835 parser](https://github.com/inyois/edi_835_parser) - Python based parser for X12 835 file formats.  Customized an [existing parser from keironstoddart](https://github.com/keironstoddart/edi-835-parser) to add additional parsing routines. <img height="20" src="img/python.png" alt="python">
 
 
-## Non-CA County-Code Open Source Repos
+## Non-CA County Code Open Source Repos
 
 ### EHR related<img height="30" src="img/health.png" alt="health">
 
