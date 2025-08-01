@@ -4,7 +4,7 @@ Please review the LICENSE file for reference.  Unless otherwise explicitly state
 
 See **CA County-Code Hosted Git Repos** for Github repos created and hosted by other CA County Developers.  
 
-See **Non-County-Code Open Source Repos** section for a variety Github repos that contain code that's been proven to be useful in day-to-day development and deployment needs of a CA County developer. 
+See **Non-CA County-Code Open Source Repos** section for a variety Github repos that contain code that's been proven to be useful in day-to-day development and deployment needs of a CA County developer. 
 
 Help us grow this list. See [contributing guidelines](https://github.com/inyois/awesome-county/blob/main/CONTRIBUTING.md) for details. 
 
