@@ -8,8 +8,9 @@ See [Non-CA County-Code Open Source Repos](#non-countycode) section for a variet
 
 Help us grow Awesome County. See [contributing guidelines](https://github.com/inyois/awesome-county/blob/main/CONTRIBUTING.md) for details. 
 
+<a name="countycode"></a>
 ## CA County Code Git Repos ##
-<a name="countycode"></a>The following repos were created and hosted by other County Developers such as yourself.
+The following repos were created and hosted by other County Developers such as yourself.
 
 ### Basics
 
@@ -25,8 +26,8 @@ Help us grow Awesome County. See [contributing guidelines](https://github.com/in
 * [X12 835 parser](https://github.com/inyois/edi_835_parser) - Python based parser for X12 835 file formats.  Customized an [existing parser from keironstoddart](https://github.com/keironstoddart/edi-835-parser) to add additional parsing routines. <img height="20" src="img/python.png" alt="python">
 
 
+<a name="non-countycode"></a>
 ## Non-CA County Code Open Source Repos ##
-<a name="non-countycode">
 ### EHR related<img height="30" src="img/health.png" alt="health">
 
 * [EPIC Clarity Data Training](https://github.com/inyois/EPIC_Clarity) - Fork of a [Joe Eberle's Repo](https://github.com/JoeEberle/EPIC_Clarity).  Fork links are not maintained. Provides introduction to EPIC clarity's data model and data access patterns. <img height="20" src="img/health.png" alt="health">
